@@ -1,0 +1,4 @@
+mkdir st
+mkdir ss
+mkfile 00000216BD3AA590
+quit
